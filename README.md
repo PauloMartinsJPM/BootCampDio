@@ -6,7 +6,7 @@ Vinha fazendo minhas anotações dos cursos em documentos do Word até fazer o c
 
 Para maiores informações sobre o markdown acesse o site abaixo.
 
-[](markdownguide.org/basic-syntax/)
+[](https://www.markdownguide.org/basic-syntax/)
 
 Para maiores informações sobre o app Typedown acesse o site abaixo.
 
