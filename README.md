@@ -4,9 +4,13 @@
 
 Vinha fazendo minhas anotações dos cursos em documentos do Word até fazer o curso do Git onde aprendi a usar, ainda de maneira inicial, o arquivo do tipo markdown. Instalei o app Typedown para editar esses arquivos pois estava disponivel na Microsoft Store gratuitamente. Espero que ele de conta do recado. Então, daqui pra frente, já vou fazer minhas anotações em markdown e as que eu já fiz em docx vou editando em .md e atualizando esse repositório.
 
+
+
 Para maiores informações sobre o markdown acesse o site abaixo.
 
-[]([Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/))
+[]([Basic Syntax | Markdown Guide](https://www.markdownguide.org))
+
+
 
 Para maiores informações sobre o app Typedown acesse o site abaixo.
 
