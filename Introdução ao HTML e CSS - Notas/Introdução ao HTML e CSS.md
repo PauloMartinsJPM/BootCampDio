@@ -36,6 +36,16 @@ Para postar imagens, a primeira coisa a se fazer é escolher as imagens. E elas 
 
 Uma dica muit boa dada pelo professor que vale a pena conferir é o site de imagens gratuitas que fica no seguinte endereço:[Imagens gratuitas] ( [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/))
 
+O ultimo elemento mostrado é a lista. Elas servem para agrupar coleções de itens .
+
+Lista UL - Listagem onde as ordens dos itens não são importantes.
+
+Lista OL - A ordem dos items são importantes
+
+Lista LI - É um item da lista OL.
+
+
+
 
 
 
