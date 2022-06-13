@@ -1,4 +1,4 @@
-##### Essas são anotações do curso HTML5 e CSS3 da DIO
+## Essas são anotações do curso HTML5 e CSS3 da DIO
 
 ###### Estrutura Básica
 
@@ -29,6 +29,12 @@ Em 2014 com a versão 5 do HTML foram criados novos elementos relacionados a sem
 <a href = estará entre aspas e apontará para sites, emails, telefones e etc
 
 <a target = blank , indica como esse link vai ser aberto, blank fara a página ser aberta em uma nova aba.
+
+Esse href fica na parte de um texto , ou seja, entre os as das ancoras fica o texto original. Esse texto fica em destaque mostrando que ali tem um link. O href e o target vem logo depois do primeiro a dessa maneira <a href ...target. Ver esse detalhe no exercicio de exemplo. Para o email e tel o procedimento é o mesmo.
+
+Para postar imagens, a primeira coisa a se fazer é escolher as imagens. E elas podem estar no seu computador ao na internet. Se a imagem estiver no seu computador precisaremos do nome dela e se estiver na rede precisaremos do camimho até ela. O comando sera <img src =''por exemplo.jpeg , fecha aspas alt abre aspas Explicação da foto fecha aspas.
+
+Uma dica muit boa dada pelo professor que vale a pena conferir é o site de imagens gratuitas que fica no seguinte endereço:[Imagens gratuitas] ( [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/))
 
 
 
