@@ -4,9 +4,17 @@
 
 ###### Estrutura Básica
 
-![](C:\Users\jpaul\Desktop\Estrutura%20Basica%203.jpg)
+</head>
 
-Coloquei uma imagem aqui pra mostras a estrutura básica de uma página HTML mas no GitHub não aparece. Já tentei mudar a extenção do arquivo mas também não funcionou. Tentei colocar direto pelo GitHub mas não entendi como faz isso. Vou verificar de existe uma maneira depois.
+<body>
+
+</body>
+
+</html>
+
+A idéia era colocar aqui a estrutura básica html. Acontece que o Typedown, afinal das contas, é um editor html , e vai tentar configurá-lo para o formato markdown então não deu certo.
+
+No VScode crie um novo arquivo .html e na area de edição digite ! e de enter. Isso fara com que uma estrutura básica html seja montada automaticamente.
 
 #### Obs: Todos os elementos possuem um sinal de menor-maior para abrir a semântica e para fechar possuem o sinal de menor-barra normal-maior. Não os coloco aqui porque o editor de markdown vai entrar em modo de edição.
 
@@ -121,7 +129,3 @@ border-radius - Define raio da borda. 100% deixa um quadrado redondo.
 text - configura etexto
 
 list - Diversas opções para configuração de lista 
-
-
-
-
