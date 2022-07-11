@@ -10,6 +10,7 @@ public class PrimeiroPrograma {
 		Livros livro = new Livros();
 		System.out.println(gato);
 		System.out.println(livro);
+		System.out.println();
 
 		/*
 		 * int a = 2; int b = 3; System.out.println("Hello Word " + (a + b));
