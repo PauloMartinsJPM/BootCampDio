@@ -10,12 +10,10 @@ As classes criadas foram
 
 - Passagem - classe principal
 
-- PassagemOnibus - herda a classe principal e sobrescreve o método cancelarPassagem
+- PassagemOnibus - herda a classe principal e sobrecarrega o método cancelarPassagem
 
 - PassagemAviao - herda a classe principal
 
 - Main - classe de testes
 
 ⛹️
-
-
